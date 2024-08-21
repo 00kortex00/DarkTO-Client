@@ -1,2 +1,2 @@
-# DarkTO-Client
+# DarkTO-Launcher
 Не оффициальный лаунчер для игры "Танки Онлайн"
